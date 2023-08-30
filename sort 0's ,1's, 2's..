@@ -20,3 +20,9 @@ void sort012(int *arr, int n)
         }
    }
 }
+/* Here we use the 3-pointers approach or Dutch National Flag Algorithms....
+What is the Dutch National Flag Algorithm?
+---> The flag of the Netherlands consists of three colors Red, White, and Blue. 
+Since our input array consists of three different numbers
+that is  why it is called the Dutch National Flag Algorithm..
+*/
